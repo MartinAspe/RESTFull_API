@@ -27,13 +27,6 @@ app.js → servidor principal
 
 (Soporta GET, POST, PUT, DELETE)
 
-## Uso
-
-1. Clonar el repo  
-2. `npm install`  
-3. Crear `.env` con datos de DB  
-4. `node app.js`
-
 ---
 
 Autor: **Martin Aspe**
